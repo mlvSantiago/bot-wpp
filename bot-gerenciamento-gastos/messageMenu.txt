@@ -1,0 +1,33 @@
+*Para adicionar gastos digite:*
+
+✅_Adicionar: *categoria* *valor*_
+
+*Para visualizar gastos digite:*
+
+✅_Visualizar: *categoria*_
+
+*Categorias disponíveis:*
+
+	•_Aluguel;_
+	•_Condomínio;_
+	•_Luz;_
+	•_Internet;_
+	•_Gás;_
+	•_Mercado;_
+	•_Feira;_
+	•_Pet;_
+	•_Reformas;_
+	•_Saúde;_
+	•_Móveis;_
+	•_Itens de Casa;_
+	•_Transporte;_
+	•_Lazer;_
+
+*Para visualizar Gasto Total*
+✅_Visualizar: *Total*_
+✅_Visualizar: *TotalCasa*_
+✅_Visualizar: *TotalOutros*_
+
+
+
+

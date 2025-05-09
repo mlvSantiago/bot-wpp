@@ -1,0 +1,6 @@
+2025/04/30-15:42:20.883 3fe0 Reusing MANIFEST C:\Users\mlsvs\bot-gerenciamento-gastos\tokens\bot-gerenciamento-gastos\Default\Local Storage\leveldb/MANIFEST-000001
+2025/04/30-15:42:20.900 3fe0 Recovering log #10
+2025/04/30-15:42:20.907 3fe0 Reusing old log C:\Users\mlsvs\bot-gerenciamento-gastos\tokens\bot-gerenciamento-gastos\Default\Local Storage\leveldb/000010.log 
+2025/04/30-16:49:45.720 57c8 Level-0 table #14: started
+2025/04/30-16:49:45.734 57c8 Level-0 table #14: 14013 bytes OK
+2025/04/30-16:49:45.740 57c8 Delete type=0 #10

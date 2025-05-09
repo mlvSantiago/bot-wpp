@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "smart-tangent-457717-j8",
+  "private_key_id": "24bbcd552d0b9be867f42b698b5c9a12d430542b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC5WOKljSLZupty\na2CzBPyi4mWYk4/1X9fwih+c3iu8Q4apHDiJ85FBVnVC0oUcLgXn5JvyICvvjEM7\nSNdHPom8j/bv87+qcUyRaMkbCXuiZ6u5wPZP2bZMiMfpiIVBT1P9nqdPU7h7Nomn\nWD3nB8lmBNRCz17PnO2NM4Us4IP7q1MjQq0dNnQOjKEmI5CxB5rplLRk3mSynDTM\noMbfNylaf0WbXWlk+3Db2slHD3tbRGATW/bGWafBd9V6T/uG+6UFIfBdBitRMSYq\nLcuvzBoKhcEqkvNSWNvLYbxPsI33oWUdCnfuCjsix640nNs8jFPL8Usng7vHnLb9\nl9JX0foPAgMBAAECggEABJPTAg2tHTOc1msbsvUPQ5i2ZNm4GZmkvztaCtMz/DvC\nFCkbQ27E4ucNVirB55bMT54ylyQm4GW4yTC6Vx7Ju5QNZRxzlblU6GDkWaiDJJ4I\nhmEx/e/uwo9t6vXiaOrkFtNSyWb7h52gz0qFTXfAm/UWunOsKxHVBGAZvc/pqyeG\nD2fu6D4nGh45AhzF0D+SbRiMz0JgcNu4q23f2Dtm3yQUP/NGfxS75N7YxZySk9iD\nwZU6WeLKAMoYFkNtHiGz8WKCh7t4fldV3W4fg95cchNGfqcjf6ueLVwnWgHS0Nt6\nrzbTYPpuX8Wcgs9Us7W48tm5KxQS6xlni6gTkssmqQKBgQDxxy11tsonsqI6Gm5a\nwDbictNI/V6EfX3v6MQiwzw+8iEoYErLRZvPVjrCKjKIR+zwYhAWkFeieW/Sj9WE\nSaAu2a2j7yxAfAj3Oik0y1EGTJ4VVc6IHrzJV9B0czXnyv/JBtZyPn6Xwn7oJntU\nDKVzp3dMrAr3TiMRJi9kWmnvhQKBgQDEP/E585u+HI+R9BQGiSq4etwH7D7X69lS\na4UbWcW+KzabnS/xGqQJRPOJMAtPsgq3Dy1lfdemOoXlS1RZFmQsYHpujhGOd+O8\nvcVwzMA7Uvqx6eXjx5lxn390EvI3FPHWKIfg+SXOzbOvwo1OG0j+TF/bY2qU4y1h\n1PxXMqSVgwKBgQCQgV04V/HnXCr900JV10B2g+6oV1cglOiqdVKU/F+Lt6f9u9+4\nMnh3qbAg0Ju3PFXvLo0zDz5xi2c8UF9rW53zooLX0mF+gSPSr95lAYgB3dU2Jzzz\nuntXU7bxgtKbIYdTnVSan6OGDOdQ1X8sswpIX7U8DC/Zs8fdvhbhQfDDCQKBgCQn\ny59rnCPYSzMOjqntl2tJZ0QmaCWLlAw1Nt6lGWNBvtvIh86Zo+L5SwzZRxw1pve2\n2hw6pQJBAe4OhMms8GOkmqnHjsB6ogBhzgBMGJZVYU5p0yq12TUvt2GBJBK1zyAv\nc2klPavuBc65vyLGsBn5pCddF4O6nt/JR3whHmVVAoGAF5UFAaZ688xveSA5oUQd\nO+E3cBEblhPuO9lBQKFcFNvtI73hCMF9435/TXNwWdY+gnl8qXjTkyOIATwwwrLO\nkRt5paehGHhQBnzy36J0eck8DNekVvh0AsLXVh0pngWkJqW2WBFrOwggjfLeDoZI\nfb3tDwhltKs824sU9IzmuWI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "bot-gastos@smart-tangent-457717-j8.iam.gserviceaccount.com",
+  "client_id": "108117936796765533181",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bot-gastos%40smart-tangent-457717-j8.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

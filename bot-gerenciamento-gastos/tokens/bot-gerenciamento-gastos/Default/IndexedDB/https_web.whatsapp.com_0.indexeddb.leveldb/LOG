@@ -1,0 +1,6 @@
+2025/04/30-17:21:33.657 5bd0 Creating DB C:\Users\mlsvs\bot-gerenciamento-gastos\tokens\bot-gerenciamento-gastos\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb since it was missing.
+2025/04/30-17:21:33.672 5bd0 Reusing MANIFEST C:\Users\mlsvs\bot-gerenciamento-gastos\tokens\bot-gerenciamento-gastos\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/05/01-11:45:43.949 5e2c Level-0 table #5: started
+2025/05/01-11:45:44.396 5e2c Level-0 table #5: 651934 bytes OK
+2025/05/01-11:45:44.406 5e2c Delete type=0 #3
+2025/05/01-11:45:44.423 5e2c Manual compaction at level-0 from (begin) .. (end); will stop at (end)

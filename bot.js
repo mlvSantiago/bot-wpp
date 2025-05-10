@@ -47,8 +47,8 @@ venom
   }*/
 
 const hoje = new Date();
-const mesAtual = hoje.getMonth();
-mesAtual += 1;
+let mesAtual = hoje.getMonth() + 1;
+
 
 async function start(client) {
     client.onMessage(async (message) => {
@@ -61,7 +61,7 @@ async function start(client) {
             await client.sendText(message.from, menu);   
         }catch (error) {
             console.error("Erro ao ler o arquivo do menu:", error) 
-            message.sendText(message.from,"❌ Erro ao carregar o menu.")
+            client.sendText(message.from,"❌ Erro ao carregar o menu.")
         }
 
     }else if (message.body.startsWith("Adicionar:")) {
@@ -104,7 +104,7 @@ async function start(client) {
             }
           }
           if(!encontrou ){
-            await client.sendText(message.from, "❌Categoria inválida. Use _*Menu:*_ para vizualizar as categorias disponíveis");    
+            await client.sendText(message.from, "❌Categoria inválida. Use _*Menu:*_ para visualizar as categorias disponíveis");    
           }else{
             let faixa = `'${mesAtual}/2025!B'`+(i+4);
             console.log('Range encontrado:', faixa);
@@ -129,7 +129,7 @@ async function start(client) {
         const categoria = dados.trim();
         
         if(!categoria){
-          client.sendText(message.from, "❌Formato Inválido. Use: Vizualizar: Categoria");
+          client.sendText(message.from, "❌Formato Inválido. Use: Visualizar: Categoria");
           return;
         }
         try{
@@ -157,7 +157,7 @@ async function start(client) {
         }
         if(!encontrado){
 
-            await client.sendText(message.from, "❌Categoria inválida. Use _*Menu:*_ para vizualizar as categorias disponíveis");
+            await client.sendText(message.from, "❌Categoria inválida. Use _*Menu:*_ para visualizar as categorias disponíveis");
            
         }
       }catch (error) {

@@ -18,9 +18,9 @@ let sheets;
 venom
   .create({
     session: 'bot-gerenciamento-gastos', // nome personalizado da sessão
-    headless: false, //quando true, roda no navegador invisivel
+    headless: true, //quando true, roda no navegador invisivel
     useChrome: true,
-    //executablePath: 'C:/Program Files/Google/Chrome/Application/chrome.exe'//caminho do navegador 
+    executablePath: '/usr/bin/google-chrome-stable'//caminho do navegador 
   })
   .then(async (client) => {
     const authClient = await auth.getClient(); // inicializa api
